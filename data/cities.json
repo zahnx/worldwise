@@ -23,6 +23,42 @@
         "lng": "-6.856940337342884"
       },
       "id": 8
+    },
+    {
+      "cityName": "Lanaja",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-30T10:20:10.650Z",
+      "notes": "Aaa",
+      "position": {
+        "lat": "41.788790628355464",
+        "lng": "-0.3313564625556432"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Antipolo",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2025-03-30T10:20:27.201Z",
+      "notes": "AA",
+      "position": {
+        "lat": "14.649365592028067",
+        "lng": "121.22123989535018"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Fortanete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-30T10:21:02.119Z",
+      "notes": "23",
+      "position": {
+        "lat": "40.481905096260434",
+        "lng": "-0.5069168852049378"
+      },
+      "id": 11
     }
   ]
 }
